@@ -1,7 +1,6 @@
 /** @jsx jsx */
 import React from "react"
 import { jsx } from "theme-ui"
-import ProjectIcon from './project-icon'
 
 type ProjectCardProps = {
   link: string
